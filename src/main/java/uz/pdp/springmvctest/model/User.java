@@ -10,8 +10,8 @@ import org.hibernate.proxy.HibernateProxy;
 import java.util.Objects;
 
 /**
- Created by: Mehrojbek
- DateTime: 08/01/25 20:47
+ * Created by: Mehrojbek
+ * DateTime: 08/01/25 20:47
  **/
 @AllArgsConstructor
 @NoArgsConstructor
